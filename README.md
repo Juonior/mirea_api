@@ -1,7 +1,7 @@
 # Mirea API
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.70.0-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.73.0-green)
 
 ## Обзор
 Mirea API — это RESTful сервис, созданный с использованием FastAPI для получения ответов на тесты/вопросы. Этот API предоставляет возможность получить ответ от ChatGPT без использования VPN. Данный API используется для моего расширения [MIREA Extension](https://github.com/Juonior/mirea_extension)
