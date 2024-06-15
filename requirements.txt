@@ -1,6 +1,5 @@
-fastapi==0.95.0
-uvicorn==0.20.0
-httpx==0.24.0
-openai==0.14.0
-PyPDF2==3.0.0
-python-dotenv==0.21.0
+fastapi==0.73.0
+uvicorn==0.17.4
+httpx==0.26.0
+openai==1.10.0
+python-dotenv==1.0.0
